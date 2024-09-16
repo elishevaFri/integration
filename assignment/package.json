@@ -1,0 +1,17 @@
+{
+  "name": "triplewhale",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
